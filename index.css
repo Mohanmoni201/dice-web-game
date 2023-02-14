@@ -1,0 +1,47 @@
+h1{
+    background-color:rgb(36, 35, 33);
+    text-align: center;
+    text-shadow: 40cap;
+    color: rgb(233, 120, 13);
+    font-size: 400%;
+    font-family:'Courier New', Courier, cursive;
+}
+#one,#two{
+    font-size: 400%;
+    font-family:'Courier New', Courier, cursive;
+    color: rgb(233, 120, 13);
+    text-align: center;
+    padding: 0%;
+    text-decoration:solid;
+    font-style: italic;
+}
+body{
+    text-align: center;
+    width:100%;
+    background-image:url("dice-game-entertainment-image1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#img1,#img2{
+    width: 150px;
+    padding: 0%;
+}
+footer{
+    background-color:rgb(36, 35, 33);
+    text-align: center;
+    text-shadow: 40cap;
+    color: rgb(233, 120, 13);
+    font-size: 300%;
+    font-family:'Courier New', Courier, cursive;
+}
+#wins{
+
+    text-align: center;
+    font-size: 250%;
+    font-family:'Courier New', Courier;
+    color: rgb(233, 120, 13);
+    text-decoration:solid;
+    font-style: italic;
+}
+
